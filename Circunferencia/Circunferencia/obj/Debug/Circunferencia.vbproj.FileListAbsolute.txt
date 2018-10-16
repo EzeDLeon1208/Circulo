@@ -1,0 +1,10 @@
+C:\Proyectos Visual Studio\Circunferencia\Circunferencia\bin\Debug\Circunferencia.exe
+C:\Proyectos Visual Studio\Circunferencia\Circunferencia\bin\Debug\Circunferencia.pdb
+C:\Proyectos Visual Studio\Circunferencia\Circunferencia\bin\Debug\Circunferencia.xml
+C:\Proyectos Visual Studio\Circunferencia\Circunferencia\obj\Debug\Circunferencia.Form1.resources
+C:\Proyectos Visual Studio\Circunferencia\Circunferencia\obj\Debug\Circunferencia.Resources.resources
+C:\Proyectos Visual Studio\Circunferencia\Circunferencia\obj\Debug\Circunferencia.vbproj.GenerateResource.cache
+C:\Proyectos Visual Studio\Circunferencia\Circunferencia\obj\Debug\Circunferencia.vbproj.CoreCompileInputs.cache
+C:\Proyectos Visual Studio\Circunferencia\Circunferencia\obj\Debug\Circunferencia.exe
+C:\Proyectos Visual Studio\Circunferencia\Circunferencia\obj\Debug\Circunferencia.xml
+C:\Proyectos Visual Studio\Circunferencia\Circunferencia\obj\Debug\Circunferencia.pdb
